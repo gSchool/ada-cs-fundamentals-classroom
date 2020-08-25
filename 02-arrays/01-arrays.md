@@ -457,7 +457,7 @@ Eventually, one or no elements will be left and we'll exit the loop.
 
 </details>
 
-The scaling trend you are seeing here is called a _logarithmic change_. As we saw in [essential mathematics](Essential%20Mathematics.md#exponents-and-logarithms), logarithmic change is related to exponential. _Log<sub>2</sub> n_ means at each step the value reduces by half of the remaining.  It also means that as the size of the array doubles, the number of iterations only increases by _1_.
+The scaling trend you are seeing here is called a _logarithmic change_. As we saw in [essential mathematics](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Essential%20Mathematics.md), logarithmic change is related to exponential. _Log<sub>2</sub> n_ means at each step the value reduces by half of the remaining.  It also means that as the size of the array doubles, the number of iterations only increases by _1_.
 
 The main loop in binary seach runs **_log<sub>2</sub> n_** number of times where *n* is the number of elements in the input array.
 
