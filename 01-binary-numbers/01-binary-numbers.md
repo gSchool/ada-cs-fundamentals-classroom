@@ -99,8 +99,8 @@ Converting a binary number to decimal is relatively straightforward.  Multiply e
 
 * type: number
 * id: 94d6c1b3-3cae-440e-81bd-524f59c91472
-* title: What is 111<sub>2</sub> in decimal?
-* decimal: [optional number, decimal points to user for answer evaluation]
+* title: What is 111 in decimal?
+* decimal: 1
 * points: 1
 * topics: binary-numbers
 
