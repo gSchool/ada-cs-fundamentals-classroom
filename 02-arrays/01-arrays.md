@@ -392,7 +392,7 @@ Having the data sorted, simplifies some of the algorithms.
   The algorithms for finding the minimum and maximum values get simplified if the array is sorted. The **minimum value** in an array that is sorted in an ascending manner will always be the first entry in the array i.e. array[0]. The **maximum value** in an array that is sorted in an ascending manner will always be the last entry in the array i.e. array[*n*-1], where *n* is the length of the array. If you compare the number of steps needed in this approach, with the approach needed for unsorted arrays, you'll find that the algorithm is significantly simpler and faster if the array is sorted.
 </details>
 
-You'll learn more about [algorithms to sort an array](Sorting.md) soon. For now, we can already see how having the array sorted makes finding the maximum and minimum value a faster and simplified algorithm. With that, let's consider searching for a value in a sorted array.
+You'll learn more about [algorithms to sort an array](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Sorting.md) soon. For now, we can already see how having the array sorted makes finding the maximum and minimum value a faster and simplified algorithm. With that, let's consider searching for a value in a sorted array.
 
 ### Binary Search
 
