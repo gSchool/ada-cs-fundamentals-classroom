@@ -25,7 +25,7 @@ Add a `decimal_to_binary` method which converts a decimal number received as a p
 * type: testable-project
 * id: 1748785f-78ca-4ca4-8e2e-a1238dd461bf
 * title: Binary and Decimal Exercise
-* upstream: https://github.com/AdaGold/binary-and-decimal
+* upstream: https://github.com/Ada-C14/binary-and-decimal
 * validate_fork: true
 * points: 2
 * topics: binary

@@ -92,10 +92,48 @@ Converting a binary number to decimal is relatively straightforward.  Multiply e
 
 = 13
 
-<details>
-  <summary>What is 111<sub>2</sub> in decimal?</summary>
-  1 * 2<sup>2</sup> + 1 * 2<sup>1</sup> + 1 * 2<sup>0</sup> = 7
-</details>
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: number
+* id: 94d6c1b3-3cae-440e-81bd-524f59c91472
+* title: What is 111<sub>2</sub> in decimal?
+* decimal: [optional number, decimal points to user for answer evaluation]
+* points: 1
+* topics: binary-numbers
+
+##### !question
+
+What is 111<sub>2</sub> in decimal?
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+##### !answer
+
+7
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+##### !explanation
+
+2^0 + 2^1 + 2^2 = 1 + 2 + 4 = 7
+
+##### !end-explanation
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 <details>
   <summary>What is 1001<sub>2</sub> in decimal?</summary>
