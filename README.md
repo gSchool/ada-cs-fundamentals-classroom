@@ -1,1 +1,3 @@
-# ada-18
+# Ada PSEs
+
+Ada Problem Solving Exercises Repository.
